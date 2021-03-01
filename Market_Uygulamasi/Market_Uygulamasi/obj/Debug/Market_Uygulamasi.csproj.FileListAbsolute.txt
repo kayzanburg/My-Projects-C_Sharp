@@ -1,0 +1,20 @@
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Market_Uygulamasi\Market_Uygulamasi\bin\Debug\Market_Uygulamasi.exe.config
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Market_Uygulamasi\Market_Uygulamasi\obj\Debug\Market_Uygulamasi.csprojResolveAssemblyReference.cache
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Market_Uygulamasi\Market_Uygulamasi\bin\Debug\Market_Uygulamasi.exe
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Market_Uygulamasi\Market_Uygulamasi\bin\Debug\Market_Uygulamasi.pdb
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Market_Uygulamasi\Market_Uygulamasi\obj\Debug\Market_Uygulamasi.exe
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Market_Uygulamasi\Market_Uygulamasi\obj\Debug\Market_Uygulamasi.pdb
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Market_Uygulamasi                        (toplamada hata var)( son değeri söylüyor)\Market_Uygulamasi\bin\Debug\Market_Uygulamasi.exe.config
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Market_Uygulamasi                        (toplamada hata var)( son değeri söylüyor)\Market_Uygulamasi\obj\Debug\Market_Uygulamasi.exe
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Market_Uygulamasi                        (toplamada hata var)( son değeri söylüyor)\Market_Uygulamasi\obj\Debug\Market_Uygulamasi.pdb
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Market_Uygulamasi                        (toplamada hata var)( son değeri söylüyor)\Market_Uygulamasi\bin\Debug\Market_Uygulamasi.exe
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Market_Uygulamasi                        (toplamada hata var)( son değeri söylüyor)\Market_Uygulamasi\bin\Debug\Market_Uygulamasi.pdb
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Market_Uygulamasi                        (toplamada hata var)( son değeri söylüyor)\Market_Uygulamasi\obj\Debug\Market_Uygulamasi.csprojAssemblyReference.cache
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Market_Uygulamasi                        (toplamada hata var)( son değeri söylüyor)\Market_Uygulamasi\obj\Debug\Market_Uygulamasi.csproj.CoreCompileInputs.cache
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Big_Project(atlıdı)(yedekler)\Market_Uygulamasi\Market_Uygulamasi\bin\Debug\Market_Uygulamasi.exe.config
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Big_Project(atlıdı)(yedekler)\Market_Uygulamasi\Market_Uygulamasi\bin\Debug\Market_Uygulamasi.exe
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Big_Project(atlıdı)(yedekler)\Market_Uygulamasi\Market_Uygulamasi\bin\Debug\Market_Uygulamasi.pdb
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Big_Project(atlıdı)(yedekler)\Market_Uygulamasi\Market_Uygulamasi\obj\Debug\Market_Uygulamasi.csprojAssemblyReference.cache
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Big_Project(atlıdı)(yedekler)\Market_Uygulamasi\Market_Uygulamasi\obj\Debug\Market_Uygulamasi.csproj.CoreCompileInputs.cache
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Big_Project(atlıdı)(yedekler)\Market_Uygulamasi\Market_Uygulamasi\obj\Debug\Market_Uygulamasi.exe
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Big_Project(atlıdı)(yedekler)\Market_Uygulamasi\Market_Uygulamasi\obj\Debug\Market_Uygulamasi.pdb
