@@ -1,0 +1,15 @@
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Okul_Otomasyon_Projesi\Okul_Otomasyon_Projesi\bin\Debug\Okul_Otomasyon_Projesi.exe.config
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Okul_Otomasyon_Projesi             (BİTİRİLMEDİ)\Okul_Otomasyon_Projesi\bin\Debug\Okul_Otomasyon_Projesi.exe.config
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Okul_Otomasyon_Projesi             (BİTİRİLMEDİ)\Okul_Otomasyon_Projesi\bin\Debug\Okul_Otomasyon_Projesi.exe
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Okul_Otomasyon_Projesi             (BİTİRİLMEDİ)\Okul_Otomasyon_Projesi\bin\Debug\Okul_Otomasyon_Projesi.pdb
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Okul_Otomasyon_Projesi             (BİTİRİLMEDİ)\Okul_Otomasyon_Projesi\obj\Debug\Okul_Otomasyon_Projesi.exe
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Okul_Otomasyon_Projesi             (BİTİRİLMEDİ)\Okul_Otomasyon_Projesi\obj\Debug\Okul_Otomasyon_Projesi.pdb
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Okul_Otomasyon_Projesi             (BİTİRİLMEDİ)\Okul_Otomasyon_Projesi\obj\Debug\Okul_Otomasyon_Projesi.csprojAssemblyReference.cache
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Okul_Otomasyon_Projesi             (BİTİRİLMEDİ)\Okul_Otomasyon_Projesi\obj\Debug\Okul_Otomasyon_Projesi.csproj.CoreCompileInputs.cache
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Big_Project(atlıdı)(yedekler)\Okul_Otomasyon_Projesi\Okul_Otomasyon_Projesi\bin\Debug\Okul_Otomasyon_Projesi.exe.config
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Big_Project(atlıdı)(yedekler)\Okul_Otomasyon_Projesi\Okul_Otomasyon_Projesi\bin\Debug\Okul_Otomasyon_Projesi.exe
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Big_Project(atlıdı)(yedekler)\Okul_Otomasyon_Projesi\Okul_Otomasyon_Projesi\bin\Debug\Okul_Otomasyon_Projesi.pdb
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Big_Project(atlıdı)(yedekler)\Okul_Otomasyon_Projesi\Okul_Otomasyon_Projesi\obj\Debug\Okul_Otomasyon_Projesi.csprojAssemblyReference.cache
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Big_Project(atlıdı)(yedekler)\Okul_Otomasyon_Projesi\Okul_Otomasyon_Projesi\obj\Debug\Okul_Otomasyon_Projesi.csproj.CoreCompileInputs.cache
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Big_Project(atlıdı)(yedekler)\Okul_Otomasyon_Projesi\Okul_Otomasyon_Projesi\obj\Debug\Okul_Otomasyon_Projesi.exe
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Big_Project(atlıdı)(yedekler)\Okul_Otomasyon_Projesi\Okul_Otomasyon_Projesi\obj\Debug\Okul_Otomasyon_Projesi.pdb
