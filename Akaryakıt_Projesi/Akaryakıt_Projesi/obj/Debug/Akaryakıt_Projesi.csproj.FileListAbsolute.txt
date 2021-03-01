@@ -1,0 +1,14 @@
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Akaryakıt_Projesi\Akaryakıt_Projesi\bin\Debug\Akaryakıt_Projesi.exe.config
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Akaryakıt_Projesi               +++++++++\Akaryakıt_Projesi\bin\Debug\Akaryakıt_Projesi.exe.config
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Akaryakıt_Projesi               +++++++++\Akaryakıt_Projesi\bin\Debug\Akaryakıt_Projesi.exe
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Akaryakıt_Projesi               +++++++++\Akaryakıt_Projesi\bin\Debug\Akaryakıt_Projesi.pdb
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Akaryakıt_Projesi               +++++++++\Akaryakıt_Projesi\obj\Debug\Akaryakıt_Projesi.exe
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Akaryakıt_Projesi               +++++++++\Akaryakıt_Projesi\obj\Debug\Akaryakıt_Projesi.pdb
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Akaryakıt_Projesi               +++++++++\Akaryakıt_Projesi\obj\Debug\Akaryakıt_Projesi.csprojAssemblyReference.cache
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Akaryakıt_Projesi               +++++++++\Akaryakıt_Projesi\obj\Debug\Akaryakıt_Projesi.csproj.CoreCompileInputs.cache
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Akaryakıt_Projesi\Akaryakıt_Projesi\bin\Debug\Akaryakıt_Projesi.exe
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Akaryakıt_Projesi\Akaryakıt_Projesi\bin\Debug\Akaryakıt_Projesi.pdb
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Akaryakıt_Projesi\Akaryakıt_Projesi\obj\Debug\Akaryakıt_Projesi.csprojAssemblyReference.cache
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Akaryakıt_Projesi\Akaryakıt_Projesi\obj\Debug\Akaryakıt_Projesi.csproj.CoreCompileInputs.cache
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Akaryakıt_Projesi\Akaryakıt_Projesi\obj\Debug\Akaryakıt_Projesi.exe
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Akaryakıt_Projesi\Akaryakıt_Projesi\obj\Debug\Akaryakıt_Projesi.pdb
