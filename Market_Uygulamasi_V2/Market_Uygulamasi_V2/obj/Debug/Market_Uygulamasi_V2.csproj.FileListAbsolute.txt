@@ -1,0 +1,15 @@
+C:\Users\Bilal Arslan\source\repos\Market_Uygulamasi_V2\Market_Uygulamasi_V2\bin\Debug\Market_Uygulamasi_V2.exe.config
+C:\Users\Bilal Arslan\source\repos\Market_Uygulamasi_V2\Market_Uygulamasi_V2\bin\Debug\Market_Uygulamasi_V2.exe
+C:\Users\Bilal Arslan\source\repos\Market_Uygulamasi_V2\Market_Uygulamasi_V2\bin\Debug\Market_Uygulamasi_V2.pdb
+C:\Users\Bilal Arslan\source\repos\Market_Uygulamasi_V2\Market_Uygulamasi_V2\obj\Debug\Market_Uygulamasi_V2.csprojAssemblyReference.cache
+C:\Users\Bilal Arslan\source\repos\Market_Uygulamasi_V2\Market_Uygulamasi_V2\obj\Debug\Market_Uygulamasi_V2.csproj.CoreCompileInputs.cache
+C:\Users\Bilal Arslan\source\repos\Market_Uygulamasi_V2\Market_Uygulamasi_V2\obj\Debug\Market_Uygulamasi_V2.exe
+C:\Users\Bilal Arslan\source\repos\Market_Uygulamasi_V2\Market_Uygulamasi_V2\obj\Debug\Market_Uygulamasi_V2.pdb
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Market_Uygulamasi_V2\Market_Uygulamasi_V2\bin\Debug\Market_Uygulamasi_V2.exe.config
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Market_Uygulamasi_V2\Market_Uygulamasi_V2\bin\Debug\Market_Uygulamasi_V2.exe
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Market_Uygulamasi_V2\Market_Uygulamasi_V2\bin\Debug\Market_Uygulamasi_V2.pdb
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Market_Uygulamasi_V2\Market_Uygulamasi_V2\obj\Debug\Market_Uygulamasi_V2.csproj.CoreCompileInputs.cache
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Market_Uygulamasi_V2\Market_Uygulamasi_V2\obj\Debug\Market_Uygulamasi_V2.exe
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Market_Uygulamasi_V2\Market_Uygulamasi_V2\obj\Debug\Market_Uygulamasi_V2.pdb
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Market_Uygulamasi_V2\Market_Uygulamasi_V2\obj\Debug\Market_Uygulamasi_V2.csproj.AssemblyReference.cache
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Market_Uygulamasi_V2\Market_Uygulamasi_V2\obj\Debug\Market_Uygulamasi_V2.csproj.SuggestedBindingRedirects.cache
