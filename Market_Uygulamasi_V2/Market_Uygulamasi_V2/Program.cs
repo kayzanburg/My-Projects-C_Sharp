@@ -13,19 +13,6 @@ namespace Market_Uygulamasi_V2
 
         // Guncelleme_Gelicek ( Tam Olarak Fix lenmedi )
 
-
-        /*
-        //ibrahim kodları
-        //Display display = new Display();
-        struct UrunYelpazemiz
-        {
-            public String urunAdi { get; set; }
-            public int stokdurumu { get; set; }
-            public double fiyati { get; set; }
-        }
-
-        */
-
         static void Main(string[] args)
         {
             //*********************************************************************************************************************************************************************************************************************************************
